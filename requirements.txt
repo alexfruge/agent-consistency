@@ -1,0 +1,6 @@
+langgraph
+langchain-anthropic
+langchain-core
+pandas
+numpy
+sentence-transformers
